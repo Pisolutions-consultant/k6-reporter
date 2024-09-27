@@ -1,7 +1,8 @@
-*.html
 **/bin/
 *.csv
-reports/*
+*.html
+.idea
 node_modules/
-tests/*.json
+reports/*
 tests/*.html
+tests/*.json
